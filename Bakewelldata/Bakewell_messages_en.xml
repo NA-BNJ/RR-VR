@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Bakewell]]></data>
+
+
+  <data name="en_panogroup13973_title"><![CDATA[Ground Floor]]></data>
+
+  <data name="en_pano13954_title"><![CDATA[Bakewell_VRS_00]]></data>
+  <data name="en_pano13955_title"><![CDATA[Bakewell_VRS_01]]></data>
+  <data name="en_pano13956_title"><![CDATA[Bakewell_VRS_02]]></data>
+  <data name="en_pano13957_title"><![CDATA[Bakewell_VRS_03]]></data>
+  <data name="en_pano13958_title"><![CDATA[Bakewell_VRS_04]]></data>
+  <data name="en_pano13959_title"><![CDATA[Bakewell_VRS_05]]></data>
+  <data name="en_pano13960_title"><![CDATA[Bakewell_VRS_06]]></data>
+  <data name="en_pano13961_title"><![CDATA[Bakewell_VRS_07]]></data>
+  <data name="en_pano13962_title"><![CDATA[Bakewell_VRS_08]]></data>
+
+  <data name="en_panogroup13981_title"><![CDATA[First Floor]]></data>
+
+  <data name="en_pano13963_title"><![CDATA[Bakewell_VRS_09]]></data>
+  <data name="en_pano13964_title"><![CDATA[Bakewell_VRS_10]]></data>
+  <data name="en_pano13965_title"><![CDATA[Bakewell_VRS_11]]></data>
+  <data name="en_pano13966_title"><![CDATA[Bakewell_VRS_12]]></data>
+  <data name="en_pano13967_title"><![CDATA[Bakewell_VRS_13]]></data>
+  <data name="en_pano13968_title"><![CDATA[Bakewell_VRS_14]]></data>
+  <data name="en_pano13969_title"><![CDATA[Bakewell_VRS_15]]></data>
+  <data name="en_pano13970_title"><![CDATA[Bakewell_VRS_16]]></data>
+  <data name="en_pano13971_title"><![CDATA[Bakewell_VRS_17]]></data>
+
+
+
+
+
+	<data name="en_panogroup13973_floor_title"><![CDATA[Ground Floor]]></data>
+	<data name="en_spotmap14025_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap14026_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap14027_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap14028_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap14029_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap14030_tooltip"><![CDATA[]]></data>
+	<data name="en_panogroup13981_floor_title"><![CDATA[First Floor]]></data>
+	<data name="en_spotmap14032_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap14033_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap14034_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap14035_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap14036_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap14037_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap14038_tooltip"><![CDATA[]]></data>
+
+  <data name="en_SkinPlusdisplayFloorplanTip"><![CDATA[Show Floorplan]]></data>
+  <data name="en_SkinPlushideFloorplanTip"><![CDATA[Hide Floorplan]]></data>
+  <data name="en_SkinPlusdraginertia"><![CDATA[0.1]]></data>
+  <data name="en_SkinPlusdragfriction"><![CDATA[0.9]]></data>
+  <data name="en_SkinPlusmovetoaccelerate"><![CDATA[1.0]]></data>
+  <data name="en_SkinPlusmovetospeed"><![CDATA[10]]></data>
+  <data name="en_SkinPlusmovetofriction"><![CDATA[0.8]]></data>
+  <data name="en_SkinPluskeybaccelerate"><![CDATA[0.5]]></data>
+  <data name="en_SkinPluskeybspeed"><![CDATA[10.0]]></data>
+  <data name="en_SkinPluskeybfriction"><![CDATA[0.9]]></data>
+  <data name="en_SkinPluskeybfovchange"><![CDATA[0.75]]></data>
+  <data name="en_SkinPlusmousefovchange"><![CDATA[1.0]]></data>
+  <data name="en_SkinPlusfovspeed"><![CDATA[3.0]]></data>
+  <data name="en_SkinPlusfovfriction"><![CDATA[0.9]]></data>
+  <data name="en_SkinPluscode"><![CDATA[ptpkimage17]]></data>
+  <data name="en_debugPanoramaDirectoriesseparatorString"><![CDATA[,]]></data>
+  <data name="en_debugPanoramaDirectoriesseparatorStringG"><![CDATA[,]]></data>
+  <data name="en_floorPlanmenu_label"><![CDATA[]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
